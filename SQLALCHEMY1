@@ -3,6 +3,10 @@ SECOND PROGRAM
 SQLAlchemy simplifies the connection between Python and SQL databases by automatically converting Python class calls into SQL statements. This allows developers to use Python to access and work with databases, and not write separate SQL queries.
 #import sqlalchemy second program
 #vicky k bajole
+
+
+
+
 from sqlalchemy import *
 from sqlalchemy.orm import declarative_base, sessionmaker
 DB_URL="mysql://root:root@localhost:3306/db2"
