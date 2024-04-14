@@ -1,0 +1,1 @@
+SQLAlchemy simplifies the connection between Python and SQL databases by automatically converting Python class calls into SQL statements. This allows developers to use Python to access and work with databases, and not write separate SQL queries.
